@@ -9,5 +9,3 @@
 - Email: dungluong@bravesoft.com.vn
 
 ---
-
-![Dung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsv-dungluong&show_icons=true&hide_title=true)
