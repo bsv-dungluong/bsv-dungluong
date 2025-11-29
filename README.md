@@ -6,6 +6,6 @@
 - 🌱 Currently learning AI automation, NextJS and cloud technologies.
 
 ## 📫 Contact Me
-- Email: dungluong@bravesoft.com.vn
-
+- Working Email: dungluong@bravesoft.com.vn
+- Personal Email: dung.lv1992@gmail.com
 ---
